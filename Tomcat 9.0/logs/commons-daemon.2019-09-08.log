@@ -1,0 +1,28 @@
+[2019-09-08 14:42:07] [info]  [15136] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2019-09-08 14:42:07] [info]  [15136] Installing service 'Tomcat9' name 'Apache Tomcat 9.0 Tomcat9'.
+[2019-09-08 14:42:07] [info]  [15136] Service 'Tomcat9' installed.
+[2019-09-08 14:42:07] [info]  [15136] Apache Commons Daemon procrun finished.
+[2019-09-08 14:42:08] [info]  [ 8364] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2019-09-08 14:42:09] [info]  [ 8364] Updating service...
+[2019-09-08 14:42:09] [info]  [ 8364] Updated service 'Tomcat9'.
+[2019-09-08 14:42:09] [info]  [ 8364] Finished updating service 'Tomcat9'.
+[2019-09-08 14:42:09] [info]  [ 8364] Apache Commons Daemon procrun finished.
+[2019-09-08 14:42:09] [info]  [15540] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2019-09-08 14:42:10] [info]  [15540] Updating service...
+[2019-09-08 14:42:10] [info]  [15540] Updated service 'Tomcat9'.
+[2019-09-08 14:42:10] [info]  [15540] Finished updating service 'Tomcat9'.
+[2019-09-08 14:42:10] [info]  [15540] Apache Commons Daemon procrun finished.
+[2019-09-08 14:42:10] [info]  [ 5980] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2019-09-08 14:42:10] [info]  [ 5980] Updating service...
+[2019-09-08 14:42:10] [info]  [ 5980] Updated service 'Tomcat9'.
+[2019-09-08 14:42:10] [info]  [ 5980] Finished updating service 'Tomcat9'.
+[2019-09-08 14:42:10] [info]  [ 5980] Apache Commons Daemon procrun finished.
+[2019-09-08 14:42:10] [info]  [ 4824] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2019-09-08 14:42:10] [info]  [ 4824] Updating service...
+[2019-09-08 14:42:10] [info]  [ 4824] Updated service 'Tomcat9'.
+[2019-09-08 14:42:10] [info]  [ 4824] Finished updating service 'Tomcat9'.
+[2019-09-08 14:42:10] [info]  [ 4824] Apache Commons Daemon procrun finished.
+[2019-09-08 14:42:15] [info]  [15840] Apache Commons Daemon procrun (1.2.0.0 64-bit) started.
+[2019-09-08 14:42:15] [info]  [15840] Running Service 'Tomcat9'...
+[2019-09-08 14:42:15] [info]  [16340] Starting service...
+[2019-09-08 14:42:17] [info]  [16340] Service started in 1508 milliseconds.

@@ -26,7 +26,13 @@ public class Project extends HttpServlet{
 			
 			try {
 				Statement stmt=conn.createStatement();
-				int result=stmt.executeUpdate("INSERT INTO projects('project_name','project_description')VALUES('"+pro))"
+				int result=stmt.executeUpdate("INSERT INTO projects('project_name','project_description')VALUES('"+proectName+"','"+projectDescription+"')");
+				System.out.println(result+"records affected");
+				response.sendRedirect("project.jsp?msg=success");
+				conn.close();
+			}catch(SQLException e) {
+				e.printStackTrace();
+				response.sendRedirect("project.jsp?msg=error");
 			}
 		}
 	}

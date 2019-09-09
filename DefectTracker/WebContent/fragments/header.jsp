@@ -1,5 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
 <!doctype html>
 <html lang="en">
 <head>
@@ -12,8 +10,6 @@
 <meta name="generator" content="Jekyll v3.8.5">
 <title>Dashboard Template · Bootstrap</title>
 
-<link rel="canonical"
-	href="https://getbootstrap.com/docs/4.3/examples/dashboard/">
 
 <!-- Bootstrap core CSS -->
 <link
@@ -24,6 +20,11 @@
 
 
 <style>
+.submenu{
+	margin-left:50px;
+}
+
+
 .bd-placeholder-img {
 	font-size: 1.125rem;
 	text-anchor: middle;
